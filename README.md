@@ -8,5 +8,5 @@
 </div>
 
 <div class="cor">
-  <img height="150px" src="octoindy.png" class="octo">
+  <img height="200px" src="octoindy.png" text-align="center" class="octo">
 </div>
