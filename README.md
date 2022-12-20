@@ -8,5 +8,5 @@
 </div>
 
 <div class="cor">
-  <img src="octoindy.png">
+  <img src="octoindy.png" class="octo">
 </div>
