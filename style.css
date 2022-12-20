@@ -1,0 +1,12 @@
+.cor{
+  text-align: center;
+  background-color: #FBDBDA;
+  height: 200px;
+  width: 200px;
+  border-radius: 10px;
+}
+
+.cor img{
+  height: 100%;
+  width: 100%;
+}
