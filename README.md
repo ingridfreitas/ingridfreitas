@@ -1,4 +1,4 @@
-### Olá! Meu nome é Ingrid e seja bem-vindo ao meu louco mundo 
+### Olá! Meu nome é Ingrid e seja bem-vindo ao meu louco mundo! 🌍
 
 <link rel="stylesheet" href="style.css">
 <div>
