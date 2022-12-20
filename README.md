@@ -1,5 +1,6 @@
 ### Olá! Meu nome é Ingrid e seja bem-vindo ao meu louco mundo 
 
+<link rel="stylesheet" href="styles.css">
 <div>
 <a href="https://github.com/ingridfreitas">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingridfreitas&layout=compact&langs_count=7&theme=dracula"/>
@@ -8,4 +9,4 @@
 
 <div class="cor">
   <img src="octoindy.png">
-  </div>
+</div>
