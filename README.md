@@ -1,8 +1,11 @@
 <h2 align="left">Olá! Eu sou a Ingrid Heloise 👋</h2>
 
 ###
-> Sou uma desenvolvedora de software apaixonada por criar soluções inovadoras. Atualmente, estudo Engenharia de Software na Unisagrado, em Bauru.
+> Sou desenvolvedora de software, apaixonada por criar soluções inovadoras. 
 >
+> Formada como técnica em Desenvolvimento de Sistemas, busco me aprofundar cada vez mais no universo da programação 🌍
+> 
+> Atualmente, estudo Engenharia de Software na Unisagrado, em Bauru.
 ###
 
 ## 🐱 Github Status
